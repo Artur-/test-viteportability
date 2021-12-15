@@ -13,7 +13,6 @@ body:
     attributes:
       value: |
         NOTE: Issues concerning UI components (e.g. Button, Grid, TextField, ...) should go to the components repository https://github.com/vaadin/flow-components
-
   - type: textarea
     id: description
     attributes:
@@ -43,7 +42,7 @@ body:
     attributes:
       label: Versions
       description: For Vaadin 22+, you can copy this from the debug window 
-      value:
+      value: |
         - Vaadin / Flow version:
         - Java version:
         - OS version:
