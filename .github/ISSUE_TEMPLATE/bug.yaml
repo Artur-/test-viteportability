@@ -34,7 +34,9 @@ body:
     attributes:
       label: Minimal reproducible example
       description: What are the steps to reproduce the issue, example project or a code snippet without dependencies
-      placeholder: Available in https://github.com/me/my-example-app
+      placeholder: |
+        See https://github.com/me/my-example-app
+        Start the application using `mvn` and the automatically opened browser will show only a black screen
     validations:
       required: true
   - type: textarea
