@@ -1,8 +1,5 @@
 name: Bug Report
 description: Issues for Flow related problems
-title: ""
-labels: [""]
-assignees:
 body:
   - type: markdown
     attributes:
